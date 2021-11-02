@@ -71,8 +71,6 @@ def primes_upto_n() -> None:
 
 
 
-
-
 #2a
 
 
